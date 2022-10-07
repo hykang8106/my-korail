@@ -1,0 +1,2 @@
+{"dep" : "평내호평", "arr" : "청량리", "date" : "20221004", "time" : "0851", "train_type" : "ic", 
+"search_tonight" : "n", "seat_type" : "1", "discount" : "000"}
